@@ -4,7 +4,7 @@ It works in the command line and helps users manage their daily tasks easily.
 <br>
 I created this project to practice Python basics like lists, loops, and conditionals.
 <br>
-
+<br>
 **What this program can do**
 <br>
 Take tasks from the user
@@ -19,15 +19,18 @@ Show all tasks
 <br>
 Exit the program safely
 <br>
+<br>
 **Language Used**
 <br>
 Python 3
+<br>
 <br>
 **Files in this Project**
 <br>
 task_manager.py
 <br>
 README.md
+<br>
 <br>
 **How to Run the Program**
 <br>
@@ -40,6 +43,7 @@ Open Command Prompt / Terminal
 Run this command:
 <br>
 python task_manager.py
+<br>
 <br>
 **How the Program Works**
 <br>
@@ -61,6 +65,7 @@ Exit
 <br>
 The program keeps running until the user chooses Exit.
 <br>
+<br>
 **Example Output**
 <br>
 ------WELCOME TO THE TASK MANAGEMENT APP------
@@ -73,9 +78,11 @@ Enter task 2 = Do assignment
 <br>
 Enter task 3 = Revise notes
 <br>
+<br>
 Today's tasks are
 <br>
 ['Study Python', 'Do assignment', 'Revise notes']
+<br>
 <br>
 **Concepts Used**
 <br>
@@ -93,7 +100,7 @@ if-elif-else conditions
 <br>
 User input using input()
 <br>
-
+<br>
 **Why I Made This Project**
 <br>
 I made this project to:
@@ -104,7 +111,8 @@ Understand how list operations work
 <br>
 Learn how menu-driven programs work
 <br>
-Author
+<br>
+**Author**
 <br>
 Sapna Thakur
 <br>
