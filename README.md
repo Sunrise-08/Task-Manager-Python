@@ -63,3 +63,6 @@ Practice Python basics
 Understand how list operations work
 Learn how menu-driven programs work
 
+Author
+Sapna Thakur
+CSE (AI & ML) Student
